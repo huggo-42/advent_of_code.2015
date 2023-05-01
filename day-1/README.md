@@ -20,9 +20,7 @@ For example:
 ))) and )())()) both result in floor -3.
 To what floor do the instructions take Santa?
 
-# Your puzzle answer was 74.
-
-The first half of this puzzle is complete! It provides one gold star: *
+## Your puzzle answer was 74.
 
 ### --- Part Two ---
 Now, given the same instructions, find the position of the first character that causes him to enter the basement (floor -1). The first character in the instructions has position 1, the second character has position 2, and so on.
@@ -33,4 +31,4 @@ For example:
 ()()) causes him to enter the basement at character position 5.
 What is the position of the character that causes Santa to first enter the basement?
 
-# Your puzzle answer was 1795.
+## Your puzzle answer was 1795.
